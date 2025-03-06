@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**Alorir/Alorir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst | SQL | Power BI | Python | Business Intelligence
 
-Here are some ideas to get you started:
+📊 I have a strong interest in business intelligence, data visualization, and data-driven decision-making. My projects focus on transforming raw data into meaningful insights using SQL, Power BI, and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 What You'll Find Here
+🗄️ SQL Projects – Querying, cleaning, and analyzing structured data
+📊 Power BI Dashboards – Interactive visualizations and reports
+🐍 Python for Data Analysis – Working with Pandas, NumPy, and Matplotlib
+📈 Job Market Data Insights – Analyzing employment trends in the Czech Republic
+🛠 Skills & Tools
+Databases:   MySQL, MariaDB
+BI & Visualization: Power BI, Tableau, DAX
+Programming: Python (Pandas, NumPy, Matplotlib)
+ETL & Data Cleaning: SQL, Python
+🚀 Pinned Repositories
+🔹 [SQL Project Name] – [Brief description]
+🔹 [Power BI Project Name] – [Brief description]
+🔹 [Python Project Name] – [Brief description]
+🔹 Coming soon: Job Market Data Analysis
+
