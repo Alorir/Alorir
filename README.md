@@ -18,7 +18,7 @@ Programming: Python (Pandas, NumPy, Matplotlib)\
 ETL & Data Cleaning: SQL, Python
 
 🚀 Pinned Repositories\
-🔹 engeto_projekt_SQL – analyzing wage trends and food price affordability in Czechia using SQL. Includes data cleaning, economic indicators, and key insights  \
+🔹 Food_Affordability_and_Wage_Analysis_in_the_Czech_Republic – analyzing wage trends and food price affordability in Czechia using SQL. Includes data cleaning, economic indicators, and key insights  \
 🔹 [Power BI Project Name] – [Brief description] \
 🔹 [Python Project Name] – [Brief description] \
 🔹 Coming soon: Job Market Data Analysis
