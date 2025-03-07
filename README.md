@@ -9,7 +9,7 @@ Aspiring Data Analyst | SQL | Power BI | Python | Business Intelligence
 🗄️ SQL Projects – Querying, cleaning, and analyzing structured data\
 📊 Power BI Dashboards – Interactive visualizations and reports\
 🐍 Python for Data Analysis – Working with Pandas, NumPy, and Matplotlib\
-📈 Job Market Data Insights – Analyzing employment trends in the Czech Republic\
+📈 Job Market Data Insights – Analyzing employment trends in the Czech Republic
 
 🛠 Skills & Tools\
 Databases:   MySQL, MariaDB\
